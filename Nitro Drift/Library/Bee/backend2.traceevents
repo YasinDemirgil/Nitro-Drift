@@ -1,0 +1,240 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1736016120648477, "dur":20318, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736016120668805, "dur":83, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736016120668922, "dur":373, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736016120669537, "dur":181, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736016120670053, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736016120670401, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736016120670499, "dur":148, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736016120670822, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736016120671256, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736016120669328, "dur":3657, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736016120672987, "dur":221315, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736016120894305, "dur":214, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736016120894670, "dur":1612, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1736016120670094, "dur":2949, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736016120673046, "dur":538, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736016120673584, "dur":3399, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736016120678412, "dur":1445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1736016120680061, "dur":998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1736016120681348, "dur":906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1736016120682326, "dur":1064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1736016120683486, "dur":5365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120688908, "dur":2409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120691366, "dur":1995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120693412, "dur":2496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120695949, "dur":367, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Yasin\\Nitro Drift\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120695948, "dur":370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120696334, "dur":2537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120698916, "dur":3191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120702156, "dur":8134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120710352, "dur":4120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120714535, "dur":11308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120725926, "dur":14384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120740353, "dur":12720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120753159, "dur":1664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120754876, "dur":2202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120757120, "dur":1319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120758488, "dur":1578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120760128, "dur":2097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736016120762265, "dur":7453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1736016120769779, "dur":21673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1736016120791488, "dur":102796, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736016120669773, "dur":3224, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736016120673000, "dur":3967, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736016120700145, "dur":638, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1736016120700790, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1736016120700866, "dur":1348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1736016120702216, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1736016120702556, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player7ad2d42c-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1736016120700788, "dur":1971, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1736016120703357, "dur":187516, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1736016120893181, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1736016120893180, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1736016120893290, "dur":868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1736016120669978, "dur":3034, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736016120673015, "dur":564, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736016120673580, "dur":3391, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736016120699642, "dur":1627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1736016120705843, "dur":376, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736016120701287, "dur":4957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736016120766560, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736016120706308, "dur":60356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736016120766823, "dur":23573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1736016120790429, "dur":103861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736016120670774, "dur":2345, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736016120673119, "dur":3879, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736016120686787, "dur":2145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1736016120688989, "dur":1827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120690864, "dur":1703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120692652, "dur":2712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120695456, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Yasin\\Nitro Drift\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120695455, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120695636, "dur":1353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120697048, "dur":2897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120699995, "dur":3659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120703699, "dur":8749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120712516, "dur":4414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120717060, "dur":35983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120753237, "dur":25046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736016120778322, "dur":115893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736016120669902, "dur":3102, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736016120673007, "dur":568, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736016120673576, "dur":3417, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736016120698707, "dur":2666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1736016120701445, "dur":3944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120705447, "dur":6220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120711710, "dur":3782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120739934, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736016120715565, "dur":24486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120740124, "dur":13256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120753443, "dur":2752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120756229, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120756351, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120758514, "dur":3001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120761557, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120761547, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120761633, "dur":19144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736016120780859, "dur":113437, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736016120670086, "dur":2948, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736016120673038, "dur":544, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736016120673582, "dur":3406, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736016120676991, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1736016120687262, "dur":2476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1736016120689813, "dur":2487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120692341, "dur":3793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120696166, "dur":391, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Yasin\\Nitro Drift\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120696165, "dur":393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120696571, "dur":2638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120699264, "dur":3114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120702466, "dur":8914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120711880, "dur":3603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120715534, "dur":10570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120726147, "dur":8989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120735199, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120736266, "dur":861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120737172, "dur":703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120737940, "dur":705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120738701, "dur":12536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120751324, "dur":3634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120755013, "dur":6831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736016120761892, "dur":29794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1736016120791727, "dur":102522, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736016120670514, "dur":2563, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736016120673082, "dur":557, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736016120673639, "dur":3336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736016120676978, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1736016120677724, "dur":2443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1736016120680552, "dur":858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1736016120681503, "dur":936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1736016120682666, "dur":833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1736016120683590, "dur":1188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift.exe" }}
+,{ "pid":12345, "tid":7, "ts":1736016120685018, "dur":3542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120688611, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120691271, "dur":2124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120693443, "dur":2431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120695909, "dur":623, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Yasin\\Nitro Drift\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120695907, "dur":627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120696550, "dur":3389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120699986, "dur":3654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120703695, "dur":50893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120754643, "dur":2272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120756969, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120758392, "dur":133, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736016120758530, "dur":1671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120760243, "dur":2456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736016120763105, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1736016120764704, "dur":28810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1736016120793541, "dur":100690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120670236, "dur":2817, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120673056, "dur":598, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120673654, "dur":3326, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120678372, "dur":1407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1736016120680037, "dur":897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1736016120681374, "dur":699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1736016120682146, "dur":967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1736016120683370, "dur":934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120684622, "dur":3186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1736016120687907, "dur":2647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120690616, "dur":1837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120692496, "dur":1697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120694256, "dur":2172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120696459, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Yasin\\Nitro Drift\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120696458, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120696583, "dur":2731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120699465, "dur":2465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120702017, "dur":8702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120716333, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120710795, "dur":5665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120716532, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120751028, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120716609, "dur":34511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120754503, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120751222, "dur":3362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120754730, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120754809, "dur":3342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120764191, "dur":230, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120758358, "dur":6099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736016120801422, "dur":160, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736016120764583, "dur":37018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736016120801646, "dur":92577, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736016120670470, "dur":2594, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736016120673068, "dur":513, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736016120673581, "dur":3418, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736016120688638, "dur":976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1736016120689689, "dur":2026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120691761, "dur":1960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120693761, "dur":2236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120696027, "dur":315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Yasin\\Nitro Drift\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120696026, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120696355, "dur":2525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120698931, "dur":2848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120706013, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1736016120701827, "dur":4289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120706191, "dur":19664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120725927, "dur":31343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120757315, "dur":1997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120759384, "dur":2818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1736016120762244, "dur":7527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1736016120769818, "dur":23642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1736016120793492, "dur":100747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736016120670543, "dur":2547, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736016120673094, "dur":213, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736016120673308, "dur":3689, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736016120676998, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1736016120686733, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1736016120689053, "dur":1794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120690956, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120693154, "dur":2206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120695456, "dur":417, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Yasin\\Nitro Drift\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120695454, "dur":422, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120695891, "dur":2151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120698084, "dur":2837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120700963, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1736016120701021, "dur":3482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120704749, "dur":12463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120717252, "dur":59519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1736016120776828, "dur":25017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1736016120801870, "dur":92438, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1736016120670611, "dur":2489, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1736016120673101, "dur":3878, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1736016120676980, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1736016120698710, "dur":1269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1736016120700029, "dur":3332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1736016120711350, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1736016120703410, "dur":8087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1736016120711564, "dur":65139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1736016120776785, "dur":14848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1736016120791660, "dur":102617, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1736016120670703, "dur":2409, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1736016120673112, "dur":3888, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1736016120677001, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1736016120699214, "dur":1661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1736016120700929, "dur":3591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1736016120704650, "dur":51625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1736016120756353, "dur":6288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1736016120762679, "dur":152, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1736016120762834, "dur":29290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Yasin/Desktop/NitroDrift/Nitro Drift_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1736016120792158, "dur":102086, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736016120899257, "dur":745, "ph":"X", "name": "ProfilerWriteOutput" }
+,
